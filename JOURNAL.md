@@ -11,5 +11,8 @@ I really hope that i learnmore about how arduino components work and how i can u
 I have scripted my own python game recently and i am hoping that this project will help increase my scripting/programming capabilities.
 This is the start of my projects, i barely know anything about the arduino, and my next step is to find out how i am going to make this project a reality.
 
+Really rough sketch in blender: <img width="1565" height="954" alt="image" src="https://github.com/user-attachments/assets/1cc84f15-8a25-433c-ab5b-e2384a6d61ea" />
+
+
 Time spent: 1h (i watched a ton of short youtube videos, and tiktoks for inspiration. That is also how i got to know about hack club!)
 
