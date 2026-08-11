@@ -17,3 +17,10 @@ Really rough sketch in blender: <img width="1586" height="988" alt="image" src="
 
 Time spent: 1h (i watched a ton of short youtube videos, and tiktoks for inspiration. That is also how i got to know about hack club!)
 
+
+
+
+August 11: Reasearching
+
+Today my goal is to find out how arduino works and maybe even get to kno wwich components i need for this project.
+
