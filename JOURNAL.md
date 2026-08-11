@@ -24,3 +24,6 @@ August 11: Reasearching
 
 Today my goal is to find out how arduino works and maybe even get to know wich components i need for this project.
 
+i watched this to understand the basics: https://www.youtube.com/watch?v=tiGw9PQbvrg
+
+
