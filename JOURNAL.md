@@ -25,5 +25,9 @@ August 11: Reasearching
 Today my goal is to find out how arduino works and maybe even get to know wich components i need for this project.
 
 i watched this to understand the basics: https://www.youtube.com/watch?v=tiGw9PQbvrg
+next i watched a more relatable video to my project: https://www.youtube.com/watch?v=sDuzb-I00-4&t=41s
+this video actually helped me alot, because i dont have a 3d printer at home, so for this project i will also be using PCB way.
+tomorrow i am looking deeper into the components
+
 
 
