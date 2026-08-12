@@ -48,5 +48,6 @@ Okay so far what i definitly need for my quadruped:
 -sensor that senses distance (idk wich one yet)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f2c22f1f-e25e-4981-b350-609441b77b26" />
 
+Time spent: 2.5h 
 
 
