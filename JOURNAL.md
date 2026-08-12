@@ -41,10 +41,12 @@ on the hackclub guide i saw that aliexpress is cheaper so that is where i will b
 Okay so far what i definitly need for my quadruped:
 -12 Servo motors
 -A frame and legs (3d printed)
--A board: Arduino Nano 
+-A board: Arduino Nano : 
 -A expansion shield ( for more wires)
-- battery holder
+=battery holder
 -screws
-Tomorrow i will be figuring out how i can get a custom 3d frame for my project and how i design it.
+-sensor that senses distance (idk wich one yet)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f2c22f1f-e25e-4981-b350-609441b77b26" />
+
 
 
