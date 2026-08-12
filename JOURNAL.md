@@ -27,7 +27,7 @@ Today my goal is to find out how arduino works and maybe even get to know wich c
 i watched this to understand the basics: https://www.youtube.com/watch?v=tiGw9PQbvrg
 next i watched a more relatable video to my project: https://www.youtube.com/watch?v=sDuzb-I00-4&t=41s
 this video actually helped me alot, because i dont have a 3d printer at home, so for this project i will also be using PCB way.
-tomorrow i am looking deeper into the components
+tomorrow i am looking deeper into the components.
 
 Time spent: 1h ( didnt go in that deep)
 
@@ -35,7 +35,16 @@ August 12: Today i am going continuing to find the components i need
 
 i watched more relatable videos, so i can see all the components in a quadruped and what use they have. 
 i came across a gyro, wich i thought was really cool. instead of it handling tough train, i might want it to be able to balance sort of.
-Here is the video where i first saw it: https://www.youtube.com/watch?v=d0dwLmjgo0w this quadruped is a very big inspiration for my project right now, so i will be watching more of his videos and i will research what components he used (he doesnt mention it in his video's)
-on the hackclub guide i saw that aliexpress is cheaper so that is where i will be looking
+Here is the video where i first saw it: https://www.youtube.com/watch?v=d0dwLmjgo0w this quadruped is a very big inspiration for my project right now, so i will be watching more of his videos and i will research what components he used (he doesnt mention it in his video's).
+on the hackclub guide i saw that aliexpress is cheaper so that is where i will be ordering from.
+
+Okay so far what i definitly need for my quadruped:
+-12 Servo motors
+-A frame and legs (3d printed)
+-A board: Arduino Nano 
+-A expansion shield ( for more wires)
+- battery holder
+-screws
+Tomorrow i will be figuring out how i can get a custom 3d frame for my project and how i design it.
 
 
