@@ -48,6 +48,15 @@ Okay so far what i definitly need for my quadruped:
 -sensor that senses distance (idk wich one yet)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f2c22f1f-e25e-4981-b350-609441b77b26" />
 
-Time spent: 2.5h 
+Time spent: 2.5h
+
+August 13: Now i know wich components i need i need to build the frame
+Today i downloaded fusion 3d, got fammiliar with the interface and how evrything works. i even replicated a key i have sitting at home.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cf2cd4be-7632-4a29-b5e3-936999c33971" />
+(Dont focus on the looks but rather the measurements)
+I measured every tiny detail from the key, as i will be doing for the quadruped.
+The only thing i dont know how to do is find the right measurments of the components without having them physicly. 
+The sellers page is not reliable for precise measurments
+
 
 
