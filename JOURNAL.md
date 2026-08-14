@@ -58,5 +58,16 @@ I measured every tiny detail from the key, as i will be doing for the quadruped.
 The only thing i dont know how to do is find the right measurments of the components without having them physicly. 
 The sellers page is not reliable for precise measurments
 
+Time spent: 3h
+
+August 14:
+
+I still used the measurements from the sited because i really dont have anything elso to go on. 
+today i didnt work on the quadruped to much, but i still tried to make the servo's
+
+Time spent: 30 Min
+
+
+
 
 
